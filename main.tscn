@@ -20,4 +20,5 @@ glow_enabled = true
 environment = SubResource("Environment_1c623")
 
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 0.99656, 0.0828778, 0, -0.0828778, 0.99656, 0, 0.893846, 0.94787)
+transform = Transform3D(1, 0, 0, 0, 0.968917, 0.247388, 0, -0.247388, 0.968917, 0, 0.873981, 0.94787)
+fov = 117.061
